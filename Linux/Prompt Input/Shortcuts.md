@@ -2,7 +2,7 @@ There are several handy shortcuts for navigating and manipulating the current pr
 
     Basic Navigation:
         Ctrl + A: Move the cursor to the beginning of the line.
-        Ctrl + E: Move the cursor to the end of the line.
+        End: Move the cursor to the end of the line.
         Ctrl + B (or Left Arrow key): Move the cursor one character backward.
         Ctrl + F (or Right Arrow key): Move the cursor one character forward.
 
